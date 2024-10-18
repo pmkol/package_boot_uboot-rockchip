@@ -4,5 +4,5 @@ Replace on openwrt source code
 
 ```shell
 rm -rf package/boot/uboot-rockchip
-git clone https://github.com/sbwml/package_boot_uboot-rockchip package/boot/uboot-rockchip
+git clone https://github.com/pmkol/package_boot_uboot-rockchip package/boot/uboot-rockchip
 ```
